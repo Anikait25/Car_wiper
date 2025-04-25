@@ -35,3 +35,14 @@ The wiper turns ON if **any** of the following conditions are true:
 - Rain is detected  
 - Manual switch is ON  
 - Visibility is low **and** fog is detected
+
+## ⚙️ Output
+
+- **W**: Wiper Activation Signal  
+  - `1` = Turn wipers ON  
+  - `0` = Wipers OFF
+
+## Author
+
+Anikait Sarkar  
+RSA SEIP VLSI Trainee
